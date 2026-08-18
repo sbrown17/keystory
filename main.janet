@@ -1,1 +1,2 @@
-(print "Initializing Keystory...")
+(defn main [& args]
+  (print "Initializing Keystory..."))
